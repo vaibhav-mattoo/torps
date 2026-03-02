@@ -3,3 +3,8 @@
 .libs
 .deps
 *.lo
+*.pyc
+venv/
+out/
+in/consensuses-*/
+in/server-descriptors-*/
